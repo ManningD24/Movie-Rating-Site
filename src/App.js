@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './Navbar';
+import Navigation from './Navbar';
 import MovieList from './components/movie-list';
 import React from 'react';
 
@@ -11,7 +11,7 @@ function App() {
       backgroundColor: 'black'
     }}
     >
-      <Navbar />
+      <Navigation />
       <MovieList />
     </div>
   );

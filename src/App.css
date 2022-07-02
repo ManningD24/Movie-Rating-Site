@@ -6,6 +6,12 @@ h1 {
   color: #2f292b;
 }
 
+image: {
+  
+  width: 25px;
+  height: 25px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
