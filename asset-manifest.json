@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Movie-Rating-Site/static/css/main.75bdd74a.css",
+    "main.js": "/Movie-Rating-Site/static/js/main.9da8f952.js",
+    "static/js/787.e253fc0a.chunk.js": "/Movie-Rating-Site/static/js/787.e253fc0a.chunk.js",
+    "static/media/logo.svg": "/Movie-Rating-Site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Movie-Rating-Site/index.html",
+    "main.75bdd74a.css.map": "/Movie-Rating-Site/static/css/main.75bdd74a.css.map",
+    "main.9da8f952.js.map": "/Movie-Rating-Site/static/js/main.9da8f952.js.map",
+    "787.e253fc0a.chunk.js.map": "/Movie-Rating-Site/static/js/787.e253fc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75bdd74a.css",
+    "static/js/main.9da8f952.js"
+  ]
+}
