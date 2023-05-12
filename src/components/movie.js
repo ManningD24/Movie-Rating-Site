@@ -2,6 +2,7 @@ import React from 'react';
 import ReviewButton from './review-button';
 import ReviewList from './review-list';
 import StarRating from "./star-rating";
+import './movie.css';
 
 export default class Movie extends React.Component {
     constructor(props) {
@@ -29,7 +30,7 @@ export default class Movie extends React.Component {
     render() {
         return(
             <div className="row my-5">
-                <div className="card mx-auto" style={{ width: "80%" }}>
+                <div className="card mx-auto" style={{ width: "60%" }}>
                     <div className="card-body">
                         <h5 className="card-title">{this.state.title}</h5>
                         <p className="card-text">
